@@ -1,0 +1,14 @@
+**\.vs
+
+*.suo
+*.db
+*.obj
+*.tlog
+*.pch
+*.log
+*.pdb
+*.idb
+*.exe
+*.ilk
+
+
